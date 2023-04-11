@@ -15,8 +15,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="AWSLambda" src="https://img.shields.io/badge/-aws%20lambda-E10098?style=for-the-badge&logo=aws-20lambda"/>
-  <img alt="AWSLambda" src="https://img.shields.io/badge/-aws%s3-E10098?style=for-the-badge&logo=aws-s3"/>
-  <img alt="AWSLambda" src="https://img.shields.io/badge/-aws%EC2-E10098?style=for-the-badge&logo=aws-EC2"/>
+  <img alt="AWSLambda" src="https://img.shields.io/badge/-aws%20s3-E10098?style=for-the-badge&logo=aws-s3"/>
+  <img alt="AWSLambda" src="https://img.shields.io/badge/-aws%20EC2-E10098?style=for-the-badge&logo=aws-EC2"/>
  
   <img style="float: left"  alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img style="float: left"  alt="SASS" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
