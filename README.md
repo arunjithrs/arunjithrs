@@ -26,6 +26,7 @@
   <img style="float: left"  alt="SASS" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img style="float: left"  alt="SASS" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-E10098?style=for-the-badge&logo=ROS"/>
+ <img style="float: left"  alt="ios" src="https://img.shields.io/badge/swiftui-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white%22" />
  
  
 
